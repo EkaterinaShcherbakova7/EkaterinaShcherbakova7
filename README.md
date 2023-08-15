@@ -2,7 +2,6 @@
 <h3 align="center">A beginner Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekaterinashcherbakova7&label=Profile%20views&color=0e75b6&style=flat" alt="ekaterinashcherbakova7" /> </p>
-![2751932_256106-P4HE5R-221](https://github.com/EkaterinaShcherbakova7/EkaterinaShcherbakova7/assets/142055028/0f34ae75-40e7-45e7-9e82-d97a008fc197)
 
 
 - 🔭 I’m currently working on **developing a pet project**
