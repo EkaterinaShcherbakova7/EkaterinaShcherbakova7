@@ -1,6 +1,6 @@
 <h1 align="center">Рада приветствовать вас на моей странице 👋</h1>
 <h3 align="center">Меня зовут Екатерина Щербакова</h3>
-<h3 align="center">Я начинающий аналитик данных</h3>
+<h3 align="center">Я Junior Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekaterinashcherbakova7&label=Profile%20views&color=0e75b6&style=flat" alt="ekaterinashcherbakova7" /> </p>
 
