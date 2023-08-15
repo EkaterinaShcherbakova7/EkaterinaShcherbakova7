@@ -1,4 +1,4 @@
-<img align = "middle" alt ="top" width = "700" src ="https://img.freepik.com/free-vector/business-intelligence-design-concept-depicting-flat-square-illustrations-searching-gathering-data-isolated-vector-illustration_1284-83144.jpg?w=2000&t=st=1692125663~exp=1692126263~hmac=d763918dad693050c62d2745875f6c6986e1b8f4092ae6ff1e11535944a537df">
+<img align = "right" alt ="top" width = "700" src ="https://img.freepik.com/free-vector/abstract-low-poly-network-communications-banner-design_1048-15251.jpg?w=1480&t=st=1692125984~exp=1692126584~hmac=2b5f7fc17fd4a1cea7cd49a623d871b8efe2208e483d0b0c74b421d26df7ca21">
 
 <h1 align="center">Рада приветствовать вас на моей странице 👋</h1>
 <h3 align="center">Я Екатерина Щербакова, Junior Data Analyst</h3>
