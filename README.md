@@ -2,8 +2,9 @@
 <h3 align="center">A beginner Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekaterinashcherbakova7&label=Profile%20views&color=0e75b6&style=flat" alt="ekaterinashcherbakova7" /> </p>
-[https://www.istockphoto.com/ru/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%B2-%D0%BE%D1%84%D0%B8%D1%81%D0%B5-gm588372584-101035459?phrase=girl%20coding
-](https://www.istockphoto.com/ru/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%B2-%D0%BE%D1%84%D0%B8%D1%81%D0%B5-gm588372584-101035459?phrase=girl%20coding)
+![2751932_256106-P4HE5R-221](https://github.com/EkaterinaShcherbakova7/EkaterinaShcherbakova7/assets/142055028/0f34ae75-40e7-45e7-9e82-d97a008fc197)
+
+
 - 🔭 I’m currently working on **developing a pet project**
 
 - 🌱 I’m currently learning **Microsoft Power BI, Excel**
