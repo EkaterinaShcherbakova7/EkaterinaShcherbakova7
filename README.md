@@ -3,7 +3,7 @@
 <h3 align="center">Я начинающий аналитик данных</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekaterinashcherbakova7&label=Profile%20views&color=0e75b6&style=flat" alt="ekaterinashcherbakova7" /> </p>
-
+![alt text](https://disk.yandex.ru/i/0Rxy6dAdybcoVQ)
 
 - 🔭 Сейчас я работаю над **разработкой пет проекта**
 
