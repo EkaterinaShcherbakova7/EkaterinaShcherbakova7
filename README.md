@@ -1,7 +1,5 @@
-<img align = "right" alt ="top" width = "700" src ="https://img.freepik.com/free-vector/abstract-low-poly-network-communications-banner-design_1048-15251.jpg?w=1480&t=st=1692125984~exp=1692126584~hmac=2b5f7fc17fd4a1cea7cd49a623d871b8efe2208e483d0b0c74b421d26df7ca21">
-
 <h1 align="center">Рада приветствовать вас на моей странице 👋</h1>
-<h3 align="center">Я Екатерина Щербакова, Junior Data Analyst</h3>
+<h2 align="center">Я Екатерина Щербакова, Junior Data Analyst</h2>
 
 <img align = "right" alt ="Coding" width = "400" src ="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=1380&t=st=1692124278~exp=1692124878~hmac=41c338933d5efdc432886aaf5314ba083833221454682bc4b683157a83588a93">
 
