@@ -1,4 +1,4 @@
-![img align = "right" alt ="Top" width = 200](https://img.freepik.com/free-photo/3d-render-code-testing-functional-test-usability_107791-16607.jpg?w=2000&t=st=1692124555~exp=1692125155~hmac=73b6acb2d2fefdaf4655fa97c738043c07eecfd2ae1c461b6d966439d3fbbda1)
+![img align = "right" alt ="Top" width = "100"](https://img.freepik.com/free-photo/3d-render-code-testing-functional-test-usability_107791-16607.jpg?w=2000&t=st=1692124555~exp=1692125155~hmac=73b6acb2d2fefdaf4655fa97c738043c07eecfd2ae1c461b6d966439d3fbbda1)
 
 <h1 align="center">Рада приветствовать вас на моей странице 👋</h1>
 <h3 align="center">Я Екатерина Щербакова, Junior Data Analyst</h3>
