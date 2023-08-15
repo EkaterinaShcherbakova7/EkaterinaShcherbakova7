@@ -1,16 +1,17 @@
 <h1 align="center">Рада приветствовать вас на моей странице 👋</h1>
-<h3 align="center">Меня зовут Екатерина Щербакова</h3>
-<h3 align="center">Я Junior Data Analyst</h3>
+<h3 align="center">Я Екатерина Щербакова, Junior Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekaterinashcherbakova7&label=Profile%20views&color=0e75b6&style=flat" alt="ekaterinashcherbakova7" /> </p>
 
-![Alt text]([relative%20path/to/img.jpg](https://disk.yandex.ru/i/0Rxy6dAdybcoVQ)?raw=true "Title")
+![alt ="gg"](https://disk.yandex.ru/i/0Rxy6dAdybcoVQ)
 
 - 🔭 Сейчас я работаю над **разработкой пет проекта**
 
 - 🌱 Сейчас я изучаю **Microsoft Power BI, Excel**
 
-- 👨‍💻 Ссылка на моё портфолио [https://github.com/EkaterinaShcherbakova7/Portfolio](https://github.com/EkaterinaShcherbakova7/Portfolio)
+- 🔴 Ссылка на моё [резюме](https://hh.ru/resume/9fc1c1dfff0c44abd00039ed1f39567450745a?hhtmFrom=resume_list)
+
+- 👨‍💻 Ссылка на моё [портфолио](https://github.com/EkaterinaShcherbakova7/Portfolio)
 
 - 📧 E-mail для связи **803596@mail.ru**
 
