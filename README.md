@@ -2,6 +2,7 @@
 <h3 align="center">A beginner Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekaterinashcherbakova7&label=Profile%20views&color=0e75b6&style=flat" alt="ekaterinashcherbakova7" /> </p>
+
 - 🔭 I’m currently working on developing a pet project
 
 - 🌱 I’m currently learning **Microsoft Power BI, Excel**
@@ -9,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/EkaterinaShcherbakova7/Portfolio](https://github.com/EkaterinaShcherbakova7/Portfolio)
 
 - 📫 How to reach me **803596@mail.ru**
-- 
+  
 - ⚡ Fun fact: **I ride enduro motorcycles in mountains 🏍⛰** 
 
 <h3 align="left">Connect with me:</h3>
