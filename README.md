@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekaterinashcherbakova7&label=Profile%20views&color=0e75b6&style=flat" alt="ekaterinashcherbakova7" /> </p>
 
-![alt ="gg"](https://disk.yandex.ru/i/0Rxy6dAdybcoVQ)
+![img ligm = "right" alt ="Coding" width = 200](https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=1380&t=st=1692124278~exp=1692124878~hmac=41c338933d5efdc432886aaf5314ba083833221454682bc4b683157a83588a93)
 
 - 🔭 Сейчас я работаю над **разработкой пет проекта**
 
