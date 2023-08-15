@@ -13,7 +13,7 @@
   
 - ⚡ Fun fact: **I ride enduro motorcycles in mountains 🏍⛰** 
 
-<h3 align="left">Connect with me: [https://t.me/Catherine_cat]</h3>
+<h3 align="left">Connect with me: https://t.me/Catherine_cat</h3>
 <p align="left">
 </p>
 
