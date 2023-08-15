@@ -1,20 +1,25 @@
-<h1 align="center">Hi 👋, I'm Ekaterina</h1>
-<h3 align="center">A beginner Data Analyst</h3>
+<h1 align="center">Рада приветствовать вас на моей странице 👋</h1>
+<h3 align="center">Меня зовут Екатерина Щербакова</h3>
+<h3 align="center">Я начинающий аналитик данных</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekaterinashcherbakova7&label=Profile%20views&color=0e75b6&style=flat" alt="ekaterinashcherbakova7" /> </p>
 
 
-- 🔭 I’m currently working on **developing a pet project**
+- 🔭 Сейчас я работаю над **разработкой пет проекта**
 
-- 🌱 I’m currently learning **Microsoft Power BI, Excel**
+- 🌱 Сейчас я изучаю **Microsoft Power BI, Excel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EkaterinaShcherbakova7/Portfolio](https://github.com/EkaterinaShcherbakova7/Portfolio)
+- 👨‍💻 Ссылка на моё портфолио [https://github.com/EkaterinaShcherbakova7/Portfolio](https://github.com/EkaterinaShcherbakova7/Portfolio)
 
-- 📫 How to reach me **803596@mail.ru**
+- 📧 E-mail для связи **803596@mail.ru**
+
+- 📫 Телеграм для связи **https://t.me/Catherine_cat**
+
+- ❓ Что я делала до анализа данных: **В прошлом врач-невролог, оставила свой путь к кандидатской👩🏻‍⚕️** 
   
-- ⚡ Fun fact: **I ride enduro motorcycles in mountains 🏍⛰** 
+- 💥 Интересное обо мне: **Путешествую на эндуро мотоцикле по горам 🏍⛰** 
 
-<h3 align="left">Connect with me: https://t.me/Catherine_cat</h3>
+
 <p align="left">
 </p>
 
