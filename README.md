@@ -31,7 +31,7 @@
 </a> <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/>
 </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
   </a> <a href="https://plotly.com/graphing-libraries/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="plotly" width="40" height="40"/>
-    </a> <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
+    </a> <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/> <a href="https://www.microsoft.com/ru-ru/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="pandas" width="40" height="40"/> </a>
       </a> <a href="https://mkt.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" alt="tableau" width="40" height="40"/> </a>
 
 </p>
