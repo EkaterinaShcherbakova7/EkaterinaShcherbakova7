@@ -10,7 +10,7 @@
 
 - 🌱 Сейчас я изучаю **Microsoft Power BI, бизнес-анализ**
 
-- 🔴 Ссылка на моё [резюме](https://hh.ru/resume/9fc1c1dfff0c44abd00039ed1f39567450745a?hhtmFrom=resume_list)
+- 🔴 Ссылка на моё [резюме](https://drive.google.com/file/d/1cU-5uBZr7yqWaLzJkMTWi-eefGzrFN5Y/view?usp=sharing)
 
 - 👨‍💻 Ссылка на моё [портфолио](https://github.com/EkaterinaShcherbakova7/Portfolio)
 
